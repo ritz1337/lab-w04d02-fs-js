@@ -13,3 +13,4 @@ https://www.npmjs.com/package/argv
 - https://nodejs.org/api/fs.html#fs_fs_writefile_file_data_options_callback
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse
+- http://jsonlint.com/
